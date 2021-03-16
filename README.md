@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, I'm Andra
+#### I'am a Front-End Developer wannabe
 
-<!--
-**Andra10/Andra10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻I am currently working on my portfolio
+- 🏎️I am a fast learner
+- 🎯I am currently learning everything about Web 
+Developing
+- ☘️2021 goals: find a position as Front-End Developer
+- 🍷 Occasionally wine consumer
 
-Here are some ideas to get you started:
+## Skills:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://img.icons8.com/color/22/000000/html-5.png")  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://img.icons8.com/color/22/000000/css3.png)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://img.icons8.com/color/22/000000/css3.png)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='bootstrap' height='40'>](https://img.icons8.com/color/22/000000/css3.png)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg' alt='vue-dot-js' height='40'>](https://img.icons8.com/color/96/000000/vue-js.png)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Find me on: 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/andra-bejenar-882641178//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/b.andra/)  
+
