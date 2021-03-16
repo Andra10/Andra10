@@ -1,5 +1,5 @@
-### Hello, I'm Andra
-#### I'm a Front-End Developer wannabe🚀
+## Hello, I'm Andra
+### I'm a Front-End Developer wannabe🚀
 
 - 💻I'm currently working on my portfolio
 - 🏎️I'm a fast learner
