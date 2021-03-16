@@ -1,10 +1,11 @@
 ### Hello, I'm Andra
-#### I'am a Front-End Developer wannabe
+#### I'm a Front-End Developer wannabe🚀
 
-- 💻I am currently working on my portfolio
-- 🏎️I am a fast learner
-- 🎯I am currently learning everything about Web 
+- 💻I'm currently working on my portfolio
+- 🏎️I'm a fast learner
+- 🎯I'm currently learning everything about Web 
 Developing
+- 👩‍🎓 Start2Impact Student
 - ☘️2021 goals: find a position as Front-End Developer
 - 🍷 Occasionally wine consumer
 
