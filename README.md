@@ -1,4 +1,4 @@
-## Hello, I'm Andra
+## Hello, I'm Andra 😄
 ### I'm a Front-End Developer wannabe🚀
 
 - 💻I'm currently working on my portfolio
