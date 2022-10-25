@@ -1,9 +1,6 @@
 ## Hello, I'm Andra 😄
 ### Front-End Developer🚀
 
-- 💻I'm currently working on my portfolio
-- 🏎️I'm a fast learner
-- 🎯I'm currently learning everything about Web 
 Developing
 
 
